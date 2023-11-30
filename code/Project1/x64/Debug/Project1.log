@@ -1,0 +1,2 @@
+﻿  第一题.c
+F:\code\Project1\第一题.c(47): error C4700: 使用了未初始化的局部变量“max”
